@@ -31,7 +31,9 @@ Opcjonalnie liczy też procent belta.
    więc to normalne. Dotknij **Zainstaluj mimo to**.
 
 Kolejne wersje aplikacja proponuje sama: przy uruchomieniu sprawdza, czy jest nowa wersja,
-pobiera ją i pokazuje, co się zmieniło. Dotknięcie numeru wersji sprawdza od razu.
+pobiera ją i pokazuje, co się zmieniło. Sekcja **O aplikacji** na dole ekranu głównego
+pokazuje stan aktualizacji, ma przycisk **Sprawdź aktualizacje** oraz linki do polityki
+prywatności i do aplikacji na GitHubie.
 
 ## Obsługa
 
