@@ -6,9 +6,9 @@ Twisting Rate czyta z ekranu gry timer i punkty, a w pasku nad grą pokazuje,
 ile punktów jesteś przed rekordem albo za nim – sekunda po sekundzie.
 Opcjonalnie liczy też procent belta.
 
-**[⬇ Pobierz najnowszy APK](https://github.com/Thashar/twisting-rate/releases/latest/download/twisting-rate.apk)**
-· [wszystkie wersje](https://github.com/Thashar/twisting-rate/releases)
-· [polityka prywatności](https://thashar.github.io/twisting-rate/)
+**[⬇ Pobierz najnowszy APK](https://github.com/Thashar/Twisting-Rate/releases/latest/download/twisting-rate.apk)**
+· [wszystkie wersje](https://github.com/Thashar/Twisting-Rate/releases)
+· [polityka prywatności](https://thashar.github.io/Twisting-Rate/)
 
 ## Co potrafi
 
@@ -48,12 +48,12 @@ pobiera ją i pokazuje, co się zmieniło. Dotknięcie numeru wersji sprawdza od
 Wszystko dzieje się na telefonie: cyfry odczytuje ML Kit wbudowany w aplikację, a klatki
 ekranu nie są nigdzie zapisywane ani wysyłane. Jedyne połączenie z internetem to
 sprawdzenie i pobranie nowej wersji z GitHuba. Szczegóły:
-**[polityka prywatności](https://thashar.github.io/twisting-rate/)**.
+**[polityka prywatności](https://thashar.github.io/Twisting-Rate/)**.
 
 ## Pytania i zgłoszenia
 
 Coś nie działa albo masz pomysł? Załóż zgłoszenie w zakładce
-[Issues](https://github.com/Thashar/twisting-rate/issues).
+[Issues](https://github.com/Thashar/Twisting-Rate/issues).
 
 ---
 
