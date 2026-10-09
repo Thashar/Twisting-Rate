@@ -121,4 +121,4 @@ Coś nie działa albo masz pomysł? Załóż zgłoszenie w zakładce
 
 ---
 
-Created by Thashar
+Created by Thashar (Polski Squad)
